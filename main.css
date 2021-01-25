@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto');
+*{
+ margin:0;
+ padding: 0;
+ outline: 0;
+}
+body{
+	background-color: #332e2e;
+}
+center{
+	
+	margin-top: 10%;
+}
+h1{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 23pt;
+}
+input{
+	border-radius: 2em;
+	padding: 2px 3px;
+
+}
+select{
+  border-radius: 2em;
+  padding: 2px 3px;
+}
+td{
+	color: white;
+}
